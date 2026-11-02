@@ -1,0 +1,22 @@
+<resources>
+    <string name="retry">Try again</string>
+    <string name="error_network">No internet connection. Check your network and try again.</string>
+    <string name="error_timeout">The request took too long. Please try again.</string>
+    <string name="error_session_expired">Your session has expired. Please sign in again.</string>
+    <string name="error_forbidden">You don’t have access to this.</string>
+    <string name="error_not_found">We couldn’t find what you were looking for.</string>
+    <string name="error_too_many_requests">Too many attempts. Please wait a moment.</string>
+    <string name="error_invalid_credentials">Incorrect credentials. Check your ID and key.</string>
+    <string name="error_invalid_code">Incorrect passcode. %1$d attempts remaining.</string>
+    <string name="error_code_expired">This passcode has expired. Request a new one.</string>
+    <string name="error_verification_locked">Too many incorrect passcodes. Please sign in again.</string>
+    <string name="error_no_pending_verification">Your verification window closed. Please sign in again.</string>
+    <string name="error_unavailable">This option isn’t available yet.</string>
+    <string name="error_server">Our servers are having trouble. Please try again shortly.</string>
+    <string name="error_parsing">Something went wrong. Please update the app or try again later.</string>
+    <string name="error_storage">Couldn’t access secure storage on this device.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_field_too_short">Too short</string>
+    <string name="error_field_invalid">Check this value</string>
+</resources>

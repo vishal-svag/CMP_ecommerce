@@ -1,0 +1,11 @@
+<resources>
+    <string name="home_greeting">Hi, %1$s</string>
+    <string name="home_greeting_fallback">Discover</string>
+    <string name="home_logout">Log out</string>
+    <string name="home_sign_in">Sign in</string>
+    <string name="home_empty">No products available right now.</string>
+    <string name="home_discount">-%1$d%</string>
+    <string name="home_rating">★ %1$s</string>
+    <string name="home_out_of_stock">Out of stock</string>
+    <string name="home_product_coming_soon">Product details are coming soon.</string>
+</resources>

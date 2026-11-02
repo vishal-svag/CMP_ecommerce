@@ -1,0 +1,11 @@
+TEAM_ID=
+
+PRODUCT_NAME=KMP_ready
+PRODUCT_BUNDLE_IDENTIFIER=ai.reslt.kmpready$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0.0
+
+// Non-secret environment config, surfaced to Swift via Info.plist (API_BASE_URL).
+// "//" starts a comment in xcconfig, hence the $() trick.
+API_BASE_URL=https:/$()/dummyjson.com/

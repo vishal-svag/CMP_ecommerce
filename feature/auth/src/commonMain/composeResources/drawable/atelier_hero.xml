@@ -1,0 +1,15 @@
+<!--
+  PLACEHOLDER hero art. Replace with the campaign photograph:
+  delete this file and add `atelier_hero.jpg` (or .webp/.png) with the same name.
+  Recommended: 1200x1500 (4:5), < 300 KB, rights-cleared for in-app use.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="500dp"
+    android:viewportWidth="400"
+    android:viewportHeight="500">
+    <path android:fillColor="#FFD9C7AE" android:pathData="M0,0h400v500h-400z" />
+    <path android:fillColor="#FFE6D7C2" android:pathData="M0,0h400v220c-90,40 -210,10 -400,60z" />
+    <path android:fillColor="#FFC8B293" android:pathData="M200,120a52,60 0 1,0 0.1,0z" />
+    <path android:fillColor="#FFEFE4D2" android:pathData="M110,500c0,-150 30,-250 90,-250s90,100 90,250z" />
+</vector>

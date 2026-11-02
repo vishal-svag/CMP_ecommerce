@@ -1,0 +1,100 @@
+<resources>
+    <!-- Brand -->
+    <string name="brand_title">Atelier</string>
+    <string name="brand_subtitle">Maison de Mode</string>
+
+    <!-- Welcome / entry -->
+    <string name="welcome_badge">Membership by invitation &amp; registry</string>
+    <string name="welcome_salon">Salon N° 07</string>
+    <string name="welcome_salon_cities">Paris / Milan</string>
+    <string name="welcome_eyebrow">Exclusive retrospective</string>
+    <string name="welcome_title">The Private Archive Awaits</string>
+    <string name="welcome_body">Enter the global collective for bespoke tailoring, runway capsules, and private salon viewings.</string>
+    <string name="welcome_stat_edition_label">Edition</string>
+    <string name="welcome_stat_edition_value">Automne XXIV</string>
+    <string name="welcome_stat_concierge_label">Concierge</string>
+    <string name="welcome_stat_concierge_value">Active</string>
+    <string name="welcome_stat_access_label">Access</string>
+    <string name="welcome_stat_access_value">Tier I &amp; II</string>
+    <string name="welcome_sign_in">Sign in to your account</string>
+    <string name="welcome_register">Request private membership / Register</string>
+    <string name="welcome_guest">Continue as guest client</string>
+    <string name="welcome_trust">256-bit encrypted concierge service</string>
+    <string name="welcome_close">Close</string>
+    <string name="welcome_help">Help</string>
+    <string name="welcome_help_title">Concierge</string>
+    <string name="welcome_help_body">Members sign in with the credentials issued at registration. New clients can request membership, or browse the public collection as a guest.</string>
+    <string name="welcome_help_dismiss">Understood</string>
+
+    <!-- Sign in -->
+    <string name="login_monogram">A</string>
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Access your private wardrobe, curation orders, and dedicated concierge.</string>
+    <string name="login_tab_client">Client ID / Email</string>
+    <string name="login_tab_member">VIP Member No.</string>
+    <string name="login_identifier_label">Email address or Atelier ID</string>
+    <string name="login_identifier_placeholder">elena.vance@archive-mode.com</string>
+    <string name="login_member_label">VIP member number</string>
+    <string name="login_member_placeholder">8 4 9 2 0</string>
+    <string name="login_password">Password</string>
+    <string name="login_password_placeholder">••••••••••••</string>
+    <string name="login_forgot_key">Forgot key?</string>
+    <string name="login_forgot_key_message">Your concierge can issue a new key. Use the Member Desk below.</string>
+    <string name="login_show_password">Show password</string>
+    <string name="login_hide_password">Hide password</string>
+    <string name="login_remember_me">Keep me authenticated for %1$d days</string>
+    <string name="login_biometric_enabled">Biometric recognition enabled</string>
+    <string name="login_submit">Authenticate session</string>
+    <string name="login_or">Or authenticate with</string>
+    <string name="login_apple">Sign in with Apple</string>
+    <string name="login_apple_tag">Instant</string>
+    <string name="login_passkey">Passkey / Face ID</string>
+    <string name="login_passkey_tag">Hardware key</string>
+    <string name="login_desk_title">Atelier Salon Member Desk</string>
+    <string name="login_desk_body">Experiencing access issues? Connect directly with your private concierge for priority key retrieval.</string>
+    <string name="login_desk_action">Contact private concierge</string>
+    <string name="login_cities">Paris|Milano|New York|Ginza</string>
+    <string name="login_password_too_short">Key must be at least %1$d characters</string>
+    <string name="login_member_invalid">Member numbers are 4–12 digits</string>
+    <string name="back">Back</string>
+
+    <!-- Verification (step 2) -->
+    <string name="verify_status">Client authentication</string>
+    <string name="verify_title">VIP Security Check</string>
+    <string name="verify_subtitle">Confirming your identity to access Atelier Private Archives &amp; Obsidian Vault.</string>
+    <string name="verify_biometrics_title">Atelier Biometrics</string>
+    <string name="verify_biometrics_subtitle">Optic &amp; Facial Precision</string>
+    <string name="verify_ready_face">Face ID ready</string>
+    <string name="verify_ready_fingerprint">Fingerprint ready</string>
+    <string name="verify_ready_generic">Biometrics ready</string>
+    <string name="verify_biometrics_hint">Double-click side button or position face within frame</string>
+    <string name="verify_biometrics_hint_fingerprint">Touch the sensor to confirm it’s you</string>
+    <string name="verify_scan">Scan</string>
+    <string name="verify_prompt_title">VIP Security Check</string>
+    <string name="verify_prompt_subtitle">Confirm it’s you to enter the Maison</string>
+    <string name="verify_prompt_cancel">Use passcode</string>
+    <string name="verify_biometric_failed">Biometric check didn’t complete. Use your passcode instead.</string>
+    <string name="verify_fallback_eyebrow">Manual fallback</string>
+    <string name="verify_fallback_title">%1$d-Digit Obsidian Passcode</string>
+    <string name="verify_fallback_body">Enter the temporary security cipher delivered to your registered device.</string>
+    <string name="verify_code_description">%1$d digit passcode</string>
+    <string name="verify_resend_in">Resend code in</string>
+    <string name="verify_resend_now">Resend now</string>
+    <string name="verify_resent">A new passcode is on its way.</string>
+    <string name="verify_vault_title">Vault security reassurance</string>
+    <string name="verify_vault_body">Protected by Atelier Vault Guard &amp; Hardware Key Encryption with end-to-end zero-knowledge proof architecture.</string>
+    <string name="verify_submit">Verify &amp; Enter Maison</string>
+    <string name="verify_back_to_sign_in">Back to sign in</string>
+    <string name="verify_alternate_device">Alternate Device</string>
+    <string name="verify_alternate_device_unavailable">Approving from another device will be available soon.</string>
+    <string name="verify_call_stylist">Call Personal Stylist</string>
+    <string name="verify_badge_iso">ISO 27001</string>
+    <string name="verify_badge_fido">FIDO2 Tier 4</string>
+    <string name="verify_badge_ssl">256-Bit SSL</string>
+
+    <!-- Register -->
+    <string name="register_eyebrow">Private membership</string>
+    <string name="register_title">Request an invitation</string>
+    <string name="register_body">Membership requests are reviewed by the concierge team. Online registration opens with the Automne edition.</string>
+    <string name="register_back_to_sign_in">I already have an account</string>
+</resources>
